@@ -1,0 +1,17 @@
+{
+  "name": "blackprint-remote-control",
+  "version": "0.0.1",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "socket.io": "^4.4.1"
+  },
+  "license": "MIT"
+}
